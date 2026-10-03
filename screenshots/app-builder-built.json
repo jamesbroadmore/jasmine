@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Mindshift Movement · Jasmine",
+      "hasCanvas": false,
+      "bodyTextLen": 4165,
+      "bodyTextHash": "69ca86315a2fdde1aa11a2286dc7386373414d17eb07251763706b92fac7bc11",
+      "bodyTextPrefix": "Mindshift Method Patterns Listen Shop Socials Free guide MINDSET",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Mindshift Movement · Jasmine",
+      "hasCanvas": false,
+      "bodyTextLen": 4118,
+      "bodyTextHash": "75e9b299181f4c4171ab05fabae4c879da2760f6f29347fa537409298e9de6fe",
+      "bodyTextPrefix": "Mindshift MINDSET · NERVOUS SYSTEM · SELF-LEADERSHIP You’re not ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
